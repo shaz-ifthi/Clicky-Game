@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Mickey Mouse",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Mickey_Mouse.png/220px-Mickey_Mouse.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Donald Duck",
+      "image": "https://vignette.wikia.nocookie.net/disneyjuniorpedia/images/4/45/220px-Donald_Duck1.gif/revision/latest?cb=20110926184002",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Minnie Mouse",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Minnie_Mouse.png/220px-Minnie_Mouse.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Daisy Duck",
+      "image": "https://images.homedepot-static.com/productImages/480700b0-6c91-4106-b34e-d31c76c6fe2e/svn/whites-roommates-wall-decals-rmk1513gm-64_300.jpg",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Goofy",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/c/c8/Goofy.gif/revision/latest?cb=20130315160314",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Pluto",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/7/7b/Pluto.PNG/revision/latest?cb=20170628205507",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Pete",
+      "image": "https://vignette.wikia.nocookie.net/disneyjuniorpedia/images/9/9f/271px-Pete.gif/revision/latest?cb=20111120131734",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Winnie the pooh",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Winniethepooh.png/220px-Winniethepooh.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Tigger",
+      "image": "https://vignette.wikia.nocookie.net/the-adventures-of-sofia-donald-goofy/images/c/c6/Tigger.png/revision/latest?cb=20130908114216",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Piglet",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/Pigletdisney.jpg",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Eeyore",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEGhCcllyOOmvuq12-duF9hIJYJlj9ixHVwBveJllaFFPN0I0",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Roo",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/5/52/Roo_Winnie_the_Pooh.jpg/revision/latest?cb=20170928185908",
+      "count": 0
+    }
+  ]
